@@ -1,16 +1,64 @@
 [
   {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+    "uid": "kpop_daily_news_1",
     "updateDate": "2019-11-09T00:00:00.0Z",
     "titleText": "Former Super Junior Member Hangeng and Celina Jade to Wed This December",
     "mainText": "Super Junior‘s former member Hangeng was reported to have registered his marriage to actress Celina Jade this June.Since then, no updates were shared about the latest developments on their union.But the good news is, their wedding invitation is currently being circulated in South Korea and the wedding will indeed push through, reportedly this December",
     "redirectionUrl": "https://www.amazon.com"
    },
   {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "uid": "kpop_daily_news_2",
     "updateDate": "2019-11-10T00:00:00.0Z",
     "titleText": "BIGBANG T.O.P’s Visuals In Recent Instagram Posts Will Warm You Right Up In This Cold Weather",
     "mainText": "As the weather in Seoul is growing rapidly cold, BIGBANG‘s T.O.P updated his Instagram account with new photos of himself wrapped up in a big fluffy coat.",
     "redirectionUrl": "https://www.amazon.com"
+  },{
+     "uid": "kpop_daily_news_3",
+    "updateDate": "2019-11-14T01:00:00.0Z",
+    "titleText": "2AM’s Jinwoon And Former 9Muses Member Kyungri Confirmed To Be Dating",
+    "mainText": "2AM Jinwoon‘s agency has confirmed that he is currently dating former 9MUSES member Kyungri.In 2AM Jinwoon‘s agency has confirmed that he is currently dating former 9MUSES member Kyungri.In a statement released to media outlet Edaily, Jinwoon’s agency, Mystic Story, has confirmed the reports.It is true that Jeong Jinwoon is currently dating Kyungri.The two have appeared on several broadcasts together over the past years, including Comedy TV‘s New Guys and Mnet‘s The God of Music 2.",
+    "redirectionUrl": "https://www.koreaboo.com/news/2ams-jinwoon-former-9muses-member-kyungri-confirmed-dating/"
+  }
+  ,{
+     "uid": "kpop_daily_news_4",
+    "updateDate": "2019-11-14T02:00:00.0Z",
+    "titleText": "Park Bo Young Will Be Going On Temporary Hiatus Due To A Serious Arm Injury",
+    "mainText": "Park Bo Young let her fans know through a personal live broadcast that she will be taking a temporary hiatus due to an arm injury she suffered in the past.During her live broadcast, which lasted more than 2 hours, she talked with her fans about how she was doing and some of her stories about meeting her fans. She then got into a more serious topic, her health.",
+    "redirectionUrl": "https://www.koreaboo.com/news/park-bo-young-will-going-temporary-hiatus-due-arm-injury/"
+  }
+  ,{
+     "uid": "kpop_daily_news_5",
+    "updateDate": "2019-11-14T03:00:00.0Z",
+    "titleText": "BTS Confirmed To Perform At 2019 Melon Music Awards",
+    "mainText": "Music platform Melon revealed that BTS would be attending the MMA 2019 on November 30 at the Seoul Gocheok Sky Dome.",
+    "redirectionUrl": "https://www.koreaboo.com/news/bts-confirms-attendance-2019-mma/"
+  }
+  ,{
+     "uid": "kpop_daily_news_6",
+    "updateDate": "2019-11-14T04:00:00.0Z",
+    "titleText": "BTS’s Map of the Soul: Persona Album Charts #1 In Multiple Countries 7 Months After Release",
+    "mainText": "BTS‘s latest album Map of the Soul: Persona has risen to the iTunes chart again 7 months after release.ARMYs were encouraging each other to purchase the song on iTunes with the hashtag, #BuyPersonaOniTunes. Fans were also tweeting photos of their purchases under that hashtag.",
+    "redirectionUrl": "https://www.koreaboo.com/news/btss-map-soul-persona-album-charts-1-in-multiple-countries-7-months-after-release/"
+  }
+  ,{
+     "uid": "kpop_daily_news_7",
+    "updateDate": "2019-11-14T05:00:00.0Z",
+    "titleText": "BLACKPINK Proves Their Popularity By Breaking Spotify Records",
+    "mainText": "They’re officially one of the top girl groups in the world.Spotify is known as one of the top audio streaming platform in the world. BLACKPINK has recently reached an impressive 9.5 million followers on the site, putting them on the top tier of artists.",
+    "redirectionUrl": "https://www.koreaboo.com/news/blackpink-proves-popularity-breaking-spotify-records/"
+  }
+  ,{
+     "uid": "kpop_daily_news_8",
+    "updateDate": "2019-11-14T06:00:00.0Z",
+    "titleText": "Super M’s Taeyong Was Seen With A Tattoo And Fans Wonder If It’s Real",
+    "mainText": "Super M’s Taeyong was seen sporting a tattoo near his left elbow and fans are dying to know if it is real or not.Taeyong has been know to fear needles or piercings, and has shied away from getting tattoos for the longest time. This is why the sudden appearance of a tattoo on his arm excites his fans.Taking a closer look at the tattoo reveals that it is the word under, spelled as UNDeR.",
+    "redirectionUrl": "https://www.koreaboo.com/news/super-ms-taeyong-seen-tattoo-fans-wonder-real/"
+  }
+  ,{
+     "uid": "kpop_daily_news_9",
+    "updateDate": "2019-11-14T07:00:00.0Z",
+    "titleText": "MBC Reveals Head Of Mnet, Shin Hyung Kwan, Was Booked For Manipulating “Produce” Series Results",
+    "mainText": "MBC has revealed through an exclusive report that one of the 10 people booked for their role in the ongoing Produce series voting manipulation scandals was the Shin Hyung Kwan, head of Mnet and vice-president at CJ ENM.Police will continue to look into the allegations against Shin Hyung Kwan, as they are focusing on the possibility that he is heavily involved in the ranking manipulation due to his frequent communication with the production team. They will analyze the data that they seized from his office, and summon him if the allegations are confirmed.",
+    "redirectionUrl": "https://www.koreaboo.com/news/mbc-reveals-head-mnet-shin-hyung-kwan-booked-manipulating-produce-series-results/"
   }
 ]
